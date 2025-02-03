@@ -15,8 +15,11 @@ To visualize findings using an interactive Power BI dashboard.
 
 ## Key Insights
 Sales show a significant rise during festive seasons.
+
 Certain product categories outperform others during festivals.
+
 Regional trends influence buying behavior.
+
 Discounts & promotions have a notable impact on sales volume.
 
 ## Analysis Dashboard

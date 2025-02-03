@@ -11,4 +11,13 @@ To provide actionable insights for optimizing future sales strategies.
 To visualize findings using an interactive Power BI dashboard.
 
 ## Dataset
-- <a href="https://github.com/Tathagata20/Loksabha_Election_Analysis/tree/main/Dataset">Election_Dataset</a>
+- <a href="https://github.com/Tathagata20/Festival_Sales_Data_Analysis/tree/main/Dataset">Festival_Sales_Dataset</a>
+
+## Key Insights
+Sales show a significant rise during festive seasons.
+Certain product categories outperform others during festivals.
+Regional trends influence buying behavior.
+Discounts & promotions have a notable impact on sales volume.
+
+## Analysis Dashboard
+- <a href="https://github.com/Tathagata20/Festival_Sales_Data_Analysis/tree/main/Dataset">Festival_Sales_Dataset</a>

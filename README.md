@@ -20,4 +20,4 @@ Regional trends influence buying behavior.
 Discounts & promotions have a notable impact on sales volume.
 
 ## Analysis Dashboard
-- <a href="https://github.com/Tathagata20/Festival_Sales_Data_Analysis/tree/main/Dataset">Festival_Sales_Dataset</a>
+- <a href="https://github.com/Tathagata20/Festival_Sales_Data_Analysis/blob/main/Screenshot%202025-01-31%20130553.png">Festival_Sales_Dashboard</a>

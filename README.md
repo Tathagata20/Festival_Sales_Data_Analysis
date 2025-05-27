@@ -14,13 +14,15 @@ To visualize findings using an interactive Power BI dashboard.
 - <a href="https://github.com/Tathagata20/Festival_Sales_Data_Analysis/tree/main/Dataset">Festival_Sales_Dataset</a>
 
 ## Key Insights
-Sales show a significant rise during festive seasons.
+Sales show a significant rise during festive seasons of Rs.107M.
 
-Certain product categories outperform others during festivals.
+Sales quantity jumped from 209k to 435k after the offers.
+
+Certain product like combo1 and home appliances categories outperform others during festivals.
 
 Regional trends influence buying behavior.
 
-Discounts & promotions have a notable impact on sales volume.
+Discounts & promotions like Rs.500 cashback and buy one get one free have a notable impact on sales volume.
 
 ## Analysis Dashboard
 - <a href="https://github.com/Tathagata20/Festival_Sales_Data_Analysis/blob/main/Screenshot%202025-01-31%20130553.png">Festival_Sales_Dashboard</a>
